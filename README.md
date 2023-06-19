@@ -1,2 +1,2 @@
 # Flask_Blog
-A fully featured flask web app
+A fully featured flask Blog web app
