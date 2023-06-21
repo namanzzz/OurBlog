@@ -8,14 +8,14 @@ from flask_login import login_user, current_user, logout_user, login_required
 posts = [
     
     {
-        'author':'Naman Matoliya',
+        'author':'whatever',
         'title':'Blog post 1',
         'content': 'First post content',
         'Date_posted':'23 july 2019'
     },
     
     {
-        'author':'Aryan sharma',
+        'author':'dontknowmyname',
         'title':'Blog post 2',
         'content': 'Second post content',
         'Date_posted':'27 july 2019'
