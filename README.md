@@ -4,4 +4,4 @@ A fully featured flask Blog web app, where one can sign up and login to their ac
 # How to Use:
 In the command prompt: 
 
-## python run.py 
+### python run.py 
